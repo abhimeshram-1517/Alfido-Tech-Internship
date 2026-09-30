@@ -1,0 +1,3 @@
+Hello, I am learning Python file handling.
+This is my input text file.
+Python can read and write files.
