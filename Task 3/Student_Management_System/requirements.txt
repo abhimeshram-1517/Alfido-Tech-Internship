@@ -1,0 +1,4 @@
+Flask>=3.1,<4.0
+
+# To open the project we have to run: python app.py in terminal
+# Then past this in browser http://127.0.0.1:5000

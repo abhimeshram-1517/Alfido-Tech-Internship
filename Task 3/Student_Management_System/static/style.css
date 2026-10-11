@@ -1,0 +1,44 @@
+body {
+    background-color: #f4f7fb;
+    color: #212529;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+}
+
+.navbar-brand {
+    letter-spacing: 0.3px;
+}
+
+.card {
+    border-radius: 16px;
+}
+
+.form-control,
+.form-select {
+    padding: 12px;
+    border-radius: 8px;
+}
+
+.btn {
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.table th,
+.table td {
+    padding: 14px;
+}
+
+footer {
+    font-size: 14px;
+}
+
+@media (max-width: 576px) {
+    main.container {
+        padding-top: 24px !important;
+    }
+
+    h1 {
+        font-size: 25px;
+    }
+}
