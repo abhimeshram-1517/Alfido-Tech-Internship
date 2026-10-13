@@ -4,7 +4,7 @@ import requests
 
 API_URL = "https://jsonplaceholder.typicode.com/users"
 
-#API_URL = "https://jsonplaceholder.typicode.com/invalid-endpoint"
+# API_URL = "https://jsonplaceholder.typicode.com/invalid-endpoint"
 
 
 def fetch_users():
